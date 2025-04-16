@@ -1,0 +1,362 @@
+{
+  "data": [
+    {
+      "group": "1-09AC",
+      "day" : [
+        {
+          "type": "понедельник",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "вторник",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "среда",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "четверг",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "пятница",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "суббота",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    },
+    {
+      "group": "3-09ПС-3",
+      "day" : [
+        {
+          "type": "понедельник",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Психология",
+              "cabinet": "1.17",
+              "replacementLesson": "Философия",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Клейдман П.П",
+              "replacement_teacher": "Комаров Н.В"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "вторник",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "среда",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "четверг",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "пятница",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        },
+        {
+          "type": "суббота",
+          "lessons": [
+            {
+              "number": 1,
+              "lesson": "Информатика",
+              "cabinet": "3.23 3.15",
+              "replacementLesson": "Литература",
+              "replacementCabinet" : "3.9",
+              "teacher" : "Муравьева Н.А",
+              "replacement_teacher": "Книжкина П.А"
+            },
+            {
+              "number": 2,
+              "lesson": "География",
+              "cabinet": "3.23 3.15",
+              "teacher" : "Глобус Н.А"
+            },
+            {
+              "number": 3,
+              "lesson": "Математика",
+              "cabinet": "2.5",
+              "teacher" : "Новик В.А"
+            },
+            {},
+            {},
+            {}
+          ]
+        }
+      ]
+    }
+  ]
+}
