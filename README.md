@@ -4,13 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+About
+Колледжский проект. Приложение получает локально (с диска) или через api (зависит от выбранных настроек) json с расписанием и выводит в таблицу
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Аппка кросплатформенная, ибо на Flutter писал. Мб некоторые приготовления все равно будут нужны перед запуском, но эт не точно.
