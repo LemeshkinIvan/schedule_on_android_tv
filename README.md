@@ -11,3 +11,5 @@ About
 
 По архитектуре старался придерживаться вот этого гайда, но не сильно - https://docs.flutter.dev/app-architecture/case-study
 MVVM 
+
+тело json, который понимает фронт - https://github.com/LemeshkinIvan/schedule_on_android_tv/blob/main/assets/schedule.json
